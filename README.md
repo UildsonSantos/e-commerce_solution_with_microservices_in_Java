@@ -1,6 +1,9 @@
 ## Creation of an e-commerce solution with microservices in Java live coding at DIO (Digital Innovation One)
 
 Project developed to use microservices in an e-commerce environment.
+In this microservice architecture, integration between services is event 
+oriented with Apache Kafka and compatibility between your communications 
+is guaranteed with Schema Registry
 
 
 
