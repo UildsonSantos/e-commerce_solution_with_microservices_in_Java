@@ -1,0 +1,4 @@
+# if the file type is .properties _> spring.application.name=payment-api
+#spring:
+#  application:
+#    name: payment-api

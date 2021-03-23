@@ -1,0 +1,4 @@
+# if the file type is .properties the configuration is _> spring.application.name=checkout-api
+spring:
+  application:
+    name: checkout-api
